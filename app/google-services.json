@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734615653857",
+    "project_id": "pervasive-pro",
+    "storage_bucket": "pervasive-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734615653857:android:40424f92ab2644d97056a0",
+        "android_client_info": {
+          "package_name": "com.example.pervasiev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734615653857-l6cntcg1c8rq6gdfh25knf4qjbgo5s3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQELVC-kQxXvd1YOtjRORsEJ-rAz5RKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734615653857-l6cntcg1c8rq6gdfh25knf4qjbgo5s3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
